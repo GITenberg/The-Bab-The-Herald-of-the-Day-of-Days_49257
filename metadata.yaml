@@ -1,4 +1,8 @@
 _repo: The-Bab-The-Herald-of-the-Day-of-Days_49257
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49257-h/images/cover.png
 creator:
   author:
     agent_name: Balyuzi, H.M. (Hasan Muvaqqar)
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45226
     wikipedia: https://en.wikipedia.org/wiki/Hasan_M._Balyuzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49257#The-Bab-The-Herald-of-the-Day-of-Days
 gutenberg_issued: '2015-06-22'
 gutenberg_type: Text
 identifiers:
